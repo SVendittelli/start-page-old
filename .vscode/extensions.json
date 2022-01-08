@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode",
+        "syler.sass-indented",
+        "shardulm94.trailing-spaces",
+        "visualstudioexptteam.vscodeintellicode",
+        "rbbit.typescript-hero",
+        "redhat.vscode-yaml",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-emoji",
+        "github.vscode-pull-request-github"
+    ]
+}
